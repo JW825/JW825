@@ -34,6 +34,7 @@ const jiwon = {
         databases: ["MySQL", "Workbench"],
     },
     currentFocus: "Improving my web development skills",
-    funFact: "Every time I pre-study coding, the professor always skips that part. 😱"
+    funFact: "Every time I pre-study coding,
+              the professor always skips that part. 😱"
 };
 ```
