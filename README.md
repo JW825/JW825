@@ -44,7 +44,7 @@ const jiwon = {
 📍2-1 웹 프로그래밍 텀 프로젝트 과제 <br>
 🔗 (https://JW825.github.io/term-pj/) <br><br>
 📍1-1 파이썬 과제 <br>
-🔗 (https://github.com/JW825/python-pj/) <br><br>
+🔗 (https://replit.com/@JW825/code1) <br><br>
 📍1-2 C언어 과제
 📍2-2 java 과제
 
