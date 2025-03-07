@@ -40,7 +40,7 @@ const jiwon = {
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JW825&layout=compact)
 
-### 🌐 학교 과제 업데이트 <br>
+### 🌐 학교 과제 업데이트 (학년-학기) <br>
 📍2-1 웹 프로그래밍 텀 프로젝트 과제 <br>
 🔗 (https://JW825.github.io/term-pj/) <br><br>
 📍1-1 파이썬 과제 <br>
