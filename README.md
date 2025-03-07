@@ -46,5 +46,6 @@ const jiwon = {
 📍1-1 파이썬 과제 <br>
 🔗 (https://replit.com/@JW825/code1) <br><br>
 📍1-2 C언어 과제
+🔗 (https://github.com/JW825/c-pj/) <br><br>
 📍2-2 java 과제
 
