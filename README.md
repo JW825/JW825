@@ -38,3 +38,4 @@ const jiwon = {
               the professor always skips that part. 😱"
 };
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JW825&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
