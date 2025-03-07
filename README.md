@@ -1,8 +1,12 @@
 <h1 align="left">Hi 👋, I'm Jiwon</h1>
 <h3 align="left">🌟 Learning to program and exploring new technologies.</h3>
 
-- 🧑‍🎓 I'm a student at **Gachon University, majoring in Computer Science.**
+- 🧑‍🎓 I'm a student at [https://www.gachon.ac.kr/sites/cs/index.do](https://www.gachon.ac.kr/sites/cs/index.do)
 
+- 📧 How to reach me [011ice@gachon.ac.kr](011ice@gachon.ac.kr)
+
+- 🔗 Visit my blog [https://m.blog.naver.com/jivv_n](https://m.blog.naver.com/jivv_n)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jivvv.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jivvv.n" height="30" width="40" /></a>
