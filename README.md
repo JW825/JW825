@@ -39,3 +39,6 @@ const jiwon = {
 };
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JW825&layout=compact)
+
+### 🌐 2-1 웹 프로그래밍 텀 프로젝트 과제 
+🔗 (https://JW825.github.io/term-pj/)
